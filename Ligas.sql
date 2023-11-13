@@ -1,0 +1,10 @@
+insert into Ligas (idLiga, nombre) values (1, 'Española');
+insert into Ligas (idLiga, nombre) values (2, 'Francesa');
+insert into Ligas (idLiga, nombre) values (3, 'Inglesa');
+insert into Ligas (idLiga, nombre) values (4, 'Italiana');
+insert into Ligas (idLiga, nombre) values (5, 'Alemana');
+insert into Ligas (idLiga, nombre) values (6, 'Portuguesa');
+insert into Ligas (idLiga, nombre) values (7, 'Rusa');
+insert into Ligas (idLiga, nombre) values (8, 'Belga');
+insert into Ligas (idLiga, nombre) values (9, 'Mónaco');
+insert into Ligas (idLiga, nombre) values (10, 'Sueca');

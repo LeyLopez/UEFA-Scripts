@@ -1,0 +1,2 @@
+insert into EstadosTemporadas (idTemporada, idTipo, fechaInicioEstado, fechaRegistroInicioEstado, fechaFinEstado, fechaRegistroFinEstado) values (1, 1, '21/07/2022', '20/07/2022', '10/07/2023', '11/03/2023');
+insert into EstadosTemporadas (idTemporada, idTipo, fechaInicioEstado, fechaRegistroInicioEstado, fechaFinEstado, fechaRegistroFinEstado) values (1, 2, '10/07/2023', '12/07/2023', null, null);
