@@ -49,7 +49,7 @@ CREATE TABLE EstadoCargos(
 	fechaInicioEstado DATE NOT NULL,
 	fechaRegistroInicioEstado DATE NOT NULL,
 	fechaFinEstado DATE NULL,
-	fechaRegistroFinEstadp DATE NULL,
+	fechaRegistroFinEstado DATE NULL,
 	FOREIGN KEY(idTipo) REFERENCES TiposEstadoCargos(idTipo),
 	FOREIGN KEY(idCargo) REFERENCES Cargos(idRolDesempeñado)
 );
