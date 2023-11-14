@@ -26,7 +26,7 @@ insert into Participaciones (idParticipación, añoParticipación, idEquipo, idL
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (26, 2022, 26, 7);
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (27, 2022, 27, 8);
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (28, 2022, 28, 8);
-insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (29, 2022, 39, 8);
+insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (29, 2022, 29, 8);
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (30, 2022, 30, 8);
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (31, 2022, 31, 9);
 insert into Participaciones (idParticipación, añoParticipación, idEquipo, idLiga) values (32, 2022, 32, 9);
